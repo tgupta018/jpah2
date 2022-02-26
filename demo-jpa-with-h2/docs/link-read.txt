@@ -1,0 +1,4 @@
+https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
+https://www.baeldung.com/spring-boot-h2-database
+https://www.baeldung.com/spring-pathvariable
+https://javabydeveloper.com/spring-boot-loading-initial-data/
